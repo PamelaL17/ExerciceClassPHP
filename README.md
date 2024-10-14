@@ -1,2 +1,2 @@
 # ExerciceClassPHP
-Créer  un  système  de  gestion  pour  une  clinique  vétérinaire
+Créer  un  système  de  gestion  pour  une  clinique  vétérinaire (Voir fichier PDF)
